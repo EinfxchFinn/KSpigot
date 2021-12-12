@@ -16,78 +16,83 @@ public class KColors {
     // DEFAULT COLORS
 
     /**
+     * #000000
+     * <div style="width:120px;height:120px;background-color:#000000"></div>
+     */
+    public static final ChatColor BLACK = ChatColor.of(new Color(0.0f, 0.0f, 0.0f));
+    /**
      * #0000AA
-     * <div style="border:1px solid black;width:120px;height:120px;background-color:#0000AA"></div>
+     * <div style="width:120px;height:120px;background-color:#0000AA"></div>
      */
     public static final ChatColor DARKBLUE = ChatColor.DARK_BLUE;
     /**
      * #00AA00
-     * <div style="border:1px solid black;width:120px;height:120px;background-color:#00AA00"></div>
+     * <div style="width:120px;height:120px;background-color:#00AA00"></div>
      */
     public static final ChatColor DARKGREEN = ChatColor.DARK_GREEN;
     /**
      * #00AAAA
-     * <div style="border:1px solid black;width:120px;height:120px;background-color:#00AAAA"></div>
+     * <div style="width:120px;height:120px;background-color:#00AAAA"></div>
      */
     public static final ChatColor DARKAQUA = ChatColor.DARK_AQUA;
     /**
      * #AA0000
-     * <div style="border:1px solid black;width:120px;height:120px;background-color:#AA0000"></div>
+     * <div style="width:120px;height:120px;background-color:#AA0000"></div>
      */
     public static final ChatColor DARKRED = ChatColor.DARK_RED;
     /**
      * #AA00AA
-     * <div style="border:1px solid black;width:120px;height:120px;background-color:#AA00AA"></div>
+     * <div style="width:120px;height:120px;background-color:#AA00AA"></div>
      */
     public static final ChatColor DARKPURPLE = ChatColor.DARK_PURPLE;
     /**
      * #FFAA00
-     * <div style="border:1px solid black;width:120px;height:120px;background-color:#FFAA00"></div>
+     * <div style="width:120px;height:120px;background-color:#FFAA00"></div>
      */
     public static final ChatColor GOLD = ChatColor.GOLD;
     /**
      * #AAAAAA
-     * <div style="border:1px solid black;width:120px;height:120px;background-color:#AAAAAA"></div>
+     * <div style="width:120px;height:120px;background-color:#AAAAAA"></div>
      */
     public static final ChatColor GRAY = ChatColor.GRAY;
     /**
      * #555555
-     * <div style="border:1px solid black;width:120px;height:120px;background-color:#555555"></div>
+     * <div style="width:120px;height:120px;background-color:#555555"></div>
      */
     public static final ChatColor DARKGRAY = ChatColor.DARK_GRAY;
     /**
      * #5555FF
-     * <div style="border:1px solid black;width:120px;height:120px;background-color:#5555FF"></div>
+     * <div style="width:120px;height:120px;background-color:#5555FF"></div>
      */
     public static final ChatColor BLUE = ChatColor.BLUE;
     /**
      * #55FF55
-     * <div style="border:1px solid black;width:120px;height:120px;background-color:#55FF55"></div>
+     * <div style="width:120px;height:120px;background-color:#55FF55"></div>
      */
     public static final ChatColor GREEN = ChatColor.GREEN;
     /**
      * #55FFFF
-     * <div style="border:1px solid black;width:120px;height:120px;background-color:#55FFFF"></div>
+     * <div style="width:120px;height:120px;background-color:#55FFFF"></div>
      */
     public static final ChatColor AQUA = ChatColor.AQUA;
     /**
      * #FF5555
-     * <div style="border:1px solid black;width:120px;height:120px;background-color:#FF5555"></div>
+     * <div style="width:120px;height:120px;background-color:#FF5555"></div>
      */
     public static final ChatColor RED = ChatColor.RED;
     /**
      * #FF55FF
-     * <div style="border:1px solid black;width:120px;height:120px;background-color:#FF55FF"></div>
+     * <div style="width:120px;height:120px;background-color:#FF55FF"></div>
      */
     public static final ChatColor LIGHTPURPLE = ChatColor.LIGHT_PURPLE;
     /**
      * #FFFF55
-     * <div style="border:1px solid black;width:120px;height:120px;background-color:#FFFF55"></div>
+     * <div style="width:120px;height:120px;background-color:#FFFF55"></div>
      */
     public static final ChatColor YELLOW = ChatColor.YELLOW;
     /**
      * #FFFFFF
-     * <div style="border:1px solid black;width:120px;height:120px;background-color:#FFFFFF"></div>
+     * <div style="width:120px;height:120px;background-color:#FFFFFF"></div>
      */
     public static final ChatColor WHITE = ChatColor.WHITE;
 
@@ -123,11 +128,6 @@ public class KColors {
      * <div style="width:120px;height:120px;background-color:#FFE4C4"></div>
      */
     public static final ChatColor BISQUE = ChatColor.of(new Color(1.0f, 0.89411765f, 0.76862746f));
-    /**
-     * #000000
-     * <div style="width:120px;height:120px;background-color:#000000"></div>
-     */
-    public static final ChatColor BLACK = ChatColor.of(new Color(0.0f, 0.0f, 0.0f));
     /**
      * #FFEBCD
      * <div style="width:120px;height:120px;background-color:#FFEBCD"></div>
